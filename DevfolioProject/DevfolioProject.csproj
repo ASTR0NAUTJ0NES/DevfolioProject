@@ -71,6 +71,7 @@
     <Content Include="Content\heading.css" />
     <Content Include="Content\styles.css" />
     <Content Include="Images\circle-cropped.png" />
+    <Content Include="Images\favicon.ico" />
     <Content Include="Images\portfolio\kofc-logo-jpg.jpg" />
     <Content Include="Images\portfolio\cflogo.jpg" />
     <Content Include="Images\portfolio\resume icon.jpg" />
