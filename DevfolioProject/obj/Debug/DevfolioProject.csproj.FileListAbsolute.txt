@@ -52,7 +52,6 @@ C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\bin\roslyn\VBCSCompi
 C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\obj\Debug\DevfolioProject.csprojAssemblyReference.cache
 C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\obj\Debug\DevfolioProject.csproj.CoreCompileInputs.cache
 C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\obj\Debug\DevfolioProject.csproj.CopyComplete
 C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\obj\Debug\DevfolioProject.dll
