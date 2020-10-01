@@ -8,7 +8,7 @@ function validateForm() {
 	var email = document.forms["contactForm"]["email"].value;
 	var phone = document.forms["contactForm"]["phone"].value;
     var message = document.forms["contactForm"]["message"].value;
-    var phonenum = /^\d{10}$/;
+    var phonenum = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
 
 	if (name.length < 1) {
         document.getElementById('error-name').innerHTML = " Please Enter A Valid Name *".fontcolor("red");
