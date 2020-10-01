@@ -7,7 +7,7 @@
 	if (name.length < 1) {
         document.getElementById('error-name').innerHTML = " Please Enter A Valid Name *".fontcolor("red");
         }
-    if (email.length < 1) {
+    if (email.length < 1 || email) {
         document.getElementById('error-email').innerHTML = " Please Enter A Valid Email *".fontcolor("red");
     }
     if (phone.length < 1) {
