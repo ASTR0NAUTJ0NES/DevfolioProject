@@ -69,17 +69,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="assets\img\avataaars.svg" />
-    <Content Include="assets\img\favicon.ico" />
-    <Content Include="assets\img\portfolio\cabin.png" />
-    <Content Include="assets\img\portfolio\cake.png" />
-    <Content Include="assets\img\portfolio\circus.png" />
-    <Content Include="assets\img\portfolio\game.png" />
-    <Content Include="assets\img\portfolio\safe.png" />
-    <Content Include="assets\img\portfolio\submarine.png" />
-    <Content Include="assets\mail\contact_me.js" />
-    <Content Include="assets\mail\contact_me.php" />
-    <Content Include="assets\mail\jqBootstrapValidation.js" />
     <Content Include="Content\body.css" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
