@@ -81,6 +81,7 @@
     <Content Include="Images\circle-cropped.png" />
     <Content Include="Images\favicon.ico" />
     <Content Include="Images\portfolio\blogicon.jpg" />
+    <Content Include="Images\portfolio\bugtracker.jpg" />
     <Content Include="Images\portfolio\kofc-logo-jpg.jpg" />
     <Content Include="Images\portfolio\cflogo.jpg" />
     <Content Include="Images\portfolio\resumeicon.jpg" />
