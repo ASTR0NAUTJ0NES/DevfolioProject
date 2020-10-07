@@ -76,6 +76,7 @@
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\custom.css" />
     <Content Include="Content\heading.css" />
     <Content Include="Content\styles.css" />
     <Content Include="Images\challenges\fizzbuzz.jpg" />
@@ -101,6 +102,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\contact-me-validation.js" />
     <Content Include="Scripts\contact_me.js" />
+    <Content Include="Scripts\custom.js" />
     <Content Include="Scripts\esm\popper-utils.js" />
     <Content Include="Scripts\esm\popper-utils.min.js" />
     <Content Include="Scripts\esm\popper.js" />

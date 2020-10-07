@@ -42,7 +42,7 @@
             </div>
         </div>
     </nav>
-    <header class="masthead text-white text-center" style="background-image: url('Images/challenges/technology-background-1632715.jpg');">
+    <header class="masthead text-white text-center" style="background-image: linear-gradient(#fff,#1abc9c,#2c3e50);">
         <div class="container d-flex align-items-center flex-column">
             <!-- Masthead Avatar Image--><img class="masthead-avatar mb-5" src="Images/circle-cropped.png" alt="">
             <!-- Masthead Heading-->
@@ -54,7 +54,12 @@
                 <div class="divider-custom-line"></div>
             </div>
             <!-- Masthead Subheading-->
-            <p class="pre-wrap masthead-subheading font-weight-light mb-0">Full Stack Software Engineer - Web Designer - Computer Scientist</p>
+            <h1>
+                <a class="typewrite" data-period="2000" data-type='[ "Full Stack Developer", "Web Designer", "Agile Enthusiast" ]'>
+                    <span class="pre-wrap masthead-subheading font-weight-light mb-0"></span>
+                </a>
+            </h1>
+            <!--<p class="pre-wrap masthead-subheading font-weight-light mb-0">Full Stack Software Engineer - Web Designer - Computer Scientist</p>-->
         </div>
     </header>
     <section class="page-section portfolio" id="portfolio">
@@ -136,13 +141,15 @@
                                 </div>
                                 <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="Images/portfolio/kofc-logo-jpg.jpg" alt="Knights of Columbus Council Website" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-5">Worked with a team volunteering service with our church’s fraternity,
-                                The Knights of Columbus, to create a website for them to serve as a social hub for which to post bulletins,
-                                events, and to keep track of their members. Partaking in this work served as proof-of-concept exercises in
-                                order to gain more experience using C# along with the surrounding languages and frameworks that are required.
-                                I have now become proficient and am interested now in becoming in expert with intentions to use this language
-                                throughout my career. There are multiple types of users with different levels of control. The site is being
-                                built using ASP.NET CORE 3.1 with MySQL database and Bootstrap.</p>
+                                <p class="mb-5">
+                                    Worked with a team volunteering service with our church’s fraternity,
+                                    The Knights of Columbus, to create a website for them to serve as a social hub for which to post bulletins,
+                                    events, and to keep track of their members. Partaking in this work served as proof-of-concept exercises in
+                                    order to gain more experience using C# along with the surrounding languages and frameworks that are required.
+                                    I have now become proficient and am interested now in becoming in expert with intentions to use this language
+                                    throughout my career. There are multiple types of users with different levels of control. The site is being
+                                    built using ASP.NET CORE 3.1 with MySQL database and Bootstrap.
+                                </p>
                                 <div class="row">
                                     <div class="col-6 text-left">
                                         <form action="https://www.okaneknights.org/">
@@ -178,19 +185,21 @@
                                 </div>
                                 <!-- Portfolio Modal - Image--><img class="img-fluid rounded mb-5" src="Images/portfolio/ru-logo-jpg.jpg" alt="Radford Senior Project - Bacterial Simulator" />
                                 <!-- Portfolio Modal - Text-->
-                                <p class="mb-5">I worked with a team using the Agile process to coordinate, execute,
-                                and maintain a complex software project. The languages used were PHP and JavaScript via
-                                the Laravel Framework. Our team started with adopting a pre-existing project from a previous
-                                semester and learning the languages and framework used over the first couple of weeks to get
-                                up to speed on how everything worked. We then learned what all their original code was doing
-                                and how to change what we needed to. After this, changes were made based on client request
-                                and we released deliverables at the end of each iteration sprint accordingly. The technology
-                                worked on involved visual representations of bacterial infections on various foods. The technology
-                                is currently used as an educator application by biology professors, our clients, at Virginia Tech.
-                                It also included database connectivity for  memberships to the website with multiple level users
-                                and the ability to save data from each simulation. There were a few tweaks and updates to the
-                                visual experience of the website done, as well. Our overarching goal was to accomplish client
-                                satisfaction, and this was done beyond expectations in their words.</p>
+                                <p class="mb-5">
+                                    I worked with a team using the Agile process to coordinate, execute,
+                                    and maintain a complex software project. The languages used were PHP and JavaScript via
+                                    the Laravel Framework. Our team started with adopting a pre-existing project from a previous
+                                    semester and learning the languages and framework used over the first couple of weeks to get
+                                    up to speed on how everything worked. We then learned what all their original code was doing
+                                    and how to change what we needed to. After this, changes were made based on client request
+                                    and we released deliverables at the end of each iteration sprint accordingly. The technology
+                                    worked on involved visual representations of bacterial infections on various foods. The technology
+                                    is currently used as an educator application by biology professors, our clients, at Virginia Tech.
+                                    It also included database connectivity for  memberships to the website with multiple level users
+                                    and the ability to save data from each simulation. There were a few tweaks and updates to the
+                                    visual experience of the website done, as well. Our overarching goal was to accomplish client
+                                    satisfaction, and this was done beyond expectations in their words.
+                                </p>
                                 <div class="row">
                                     <div class="col-6 text-left">
                                         <form action="http://bacterialsimulator.herokuapp.com/">
@@ -508,8 +517,8 @@
                     <div class="row">
                         <img src="Images/languageIcons/jsLogo.png" />
                     </div>
-                </div>              
-                    <!--HTML5 - CSS - JavaScript - jQuery - PHP - Java - C# - ADA - Racket
+                </div>
+                <!--HTML5 - CSS - JavaScript - jQuery - PHP - Java - C# - ADA - Racket
                 <p class="pre-wrap lead">Lisp - Scheme - Entity Framework - Bootstrap - MySQL - LINQ</p>-->
             </div>
         </div>
@@ -625,5 +634,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
     <!-- Core theme JS-->
     <script src="Scripts/scripts.js"></script>
+    <!-- Custom JS -->
+    <script src="Scripts/custom.js"></script>
 </body>
 </html>
