@@ -85,10 +85,14 @@
     <Content Include="Images\challenges\tacocat.png" />
     <Content Include="Images\circle-cropped.png" />
     <Content Include="Images\favicon.ico" />
+    <Content Include="Images\languageIcons\bootstrapicon.png" />
     <Content Include="Images\languageIcons\css logo.png" />
     <Content Include="Images\languageIcons\html5Icon.png" />
-    <Content Include="Images\languageIcons\javaIcon.png" />
+    <Content Include="Images\languageIcons\java-icon.png" />
+    <Content Include="Images\languageIcons\jquery-icon.png" />
     <Content Include="Images\languageIcons\jsLogo.png" />
+    <Content Include="Images\languageIcons\php-512.png" />
+    <Content Include="Images\languageIcons\racket icon.png" />
     <Content Include="Images\portfolio\blogicon.jpg" />
     <Content Include="Images\portfolio\bugtracker.jpg" />
     <Content Include="Images\portfolio\financialportalicon.jpg" />
