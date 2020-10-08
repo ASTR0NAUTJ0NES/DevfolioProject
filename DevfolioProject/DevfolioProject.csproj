@@ -79,7 +79,7 @@
     <Content Include="Content\custom.css" />
     <Content Include="Content\heading.css" />
     <Content Include="Content\styles.css" />
-    <Content Include="Images\challenges\fizzbuzzIcon.png" />
+    <Content Include="Images\challenges\fizzbuzzicon.jpg" />
     <Content Include="Images\challenges\sumofallfears.jpg" />
     <Content Include="Images\challenges\sunsetHillsIcon.jpg" />
     <Content Include="Images\challenges\tacocat.jpg" />
