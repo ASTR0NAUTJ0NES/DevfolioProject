@@ -82,7 +82,7 @@
     <Content Include="Images\challenges\fizzbuzz.jpg" />
     <Content Include="Images\challenges\sumofallfears.jpg" />
     <Content Include="Images\challenges\sunsethills.jpg" />
-    <Content Include="Images\challenges\tacocat.png" />
+    <Content Include="Images\challenges\tacocat.jpg" />
     <Content Include="Images\circle-cropped.png" />
     <Content Include="Images\favicon.ico" />
     <Content Include="Images\languageIcons\bootstrapicon.png" />
@@ -93,12 +93,12 @@
     <Content Include="Images\languageIcons\jsLogo.png" />
     <Content Include="Images\languageIcons\php-512.png" />
     <Content Include="Images\languageIcons\racket icon.png" />
+    <Content Include="Images\portfolio\bacterialsimulator.jpg" />
     <Content Include="Images\portfolio\blogicon.jpg" />
     <Content Include="Images\portfolio\bugtracker.jpg" />
     <Content Include="Images\portfolio\financialportalicon.jpg" />
     <Content Include="Images\portfolio\kofc-logo-jpg.jpg" />
     <Content Include="Images\portfolio\resumeicon.jpg" />
-    <Content Include="Images\portfolio\ru-logo-jpg.jpg" />
     <Content Include="index.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />

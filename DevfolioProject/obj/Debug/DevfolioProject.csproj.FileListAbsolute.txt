@@ -56,4 +56,3 @@ C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\obj\Debug\DevfolioPr
 C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\obj\Debug\DevfolioProject.csproj.CopyComplete
 C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\obj\Debug\DevfolioProject.dll
 C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\obj\Debug\DevfolioProject.pdb
-C:\Users\astr0\source\repos\DevfolioProject\DevfolioProject\obj\Debug\DevfolioProject.csprojAssemblyReference.cache
