@@ -81,7 +81,7 @@
     <Content Include="Content\styles.css" />
     <Content Include="Images\challenges\fizzbuzzIcon.png" />
     <Content Include="Images\challenges\sumofallfears.jpg" />
-    <Content Include="Images\challenges\sunsethills.jpg" />
+    <Content Include="Images\challenges\sunsetHillsIcon.jpg" />
     <Content Include="Images\challenges\tacocat.jpg" />
     <Content Include="Images\circle-cropped.png" />
     <Content Include="Images\favicon.ico" />
