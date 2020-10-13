@@ -93,6 +93,7 @@
     <Content Include="Images\languageIcons\java-icon.png" />
     <Content Include="Images\languageIcons\jquery-icon.png" />
     <Content Include="Images\languageIcons\jsLogo.png" />
+    <Content Include="Images\languageIcons\mysql-2048-black.png" />
     <Content Include="Images\languageIcons\php-512.png" />
     <Content Include="Images\languageIcons\racket icon.png" />
     <Content Include="Images\portfolio\bacterialsimulator.jpg" />
