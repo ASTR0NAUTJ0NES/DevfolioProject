@@ -86,6 +86,8 @@
     <Content Include="Images\circle-cropped.png" />
     <Content Include="Images\favicon.ico" />
     <Content Include="Images\languageIcons\bootstrapicon.png" />
+    <Content Include="Images\languageIcons\c#logo.png" />
+    <Content Include="Images\languageIcons\cIcon.png" />
     <Content Include="Images\languageIcons\css logo.png" />
     <Content Include="Images\languageIcons\html5Icon.png" />
     <Content Include="Images\languageIcons\java-icon.png" />
